@@ -1,0 +1,39 @@
+body{
+    background-color:rgba(248, 198, 72, 0.89);
+}
+.container{
+    height: 120px;
+}
+.btn{
+    margin-top: 15px;
+    float: right !important;
+    margin-left: 20px;
+}
+.btn h2{
+    float: left !important;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    margin-right: 600px;
+}
+
+.input{
+    margin: 50px;
+    text-align: center;
+}
+
+.input-text{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    padding-right: 150px;
+}
+
+.search{
+    padding: 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(55, 196, 252);
+}
